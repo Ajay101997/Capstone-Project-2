@@ -292,7 +292,7 @@ Through this project, I gained practical experience in:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/Sentiment-Analysis-Ecommerce-Reviews.git
+git clone https://github.com/Ajay101997/Capstone-Project-2.git
 ```
 
 Move into the project directory:
@@ -319,10 +319,6 @@ jupyter notebook
 
 **Ajay Kumar Sahu**
 
-GitHub: https://github.com/YOUR-GITHUB-USERNAME
+GitHub: https://github.com/Ajay101997/Capstone-Project-2.git
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-ID
-
----
-
-⭐ **If you found this project useful, consider giving it a Star!**
+LinkedIn: www.linkedin.com/in/ajay-kumar-sahu-68804621b
